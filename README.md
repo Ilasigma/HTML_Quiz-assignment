@@ -1,2 +1,2 @@
-# HTML_Quiz-assignment
+# html-quiz_assignment
 HTML Quiz assignment with header footer
